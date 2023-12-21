@@ -19,7 +19,7 @@ El proyecto sigue una estructura clara:
 * assets/: Carpeta para almacenar cualquier recurso adicional, como imágenes.
 
 ## Tecnologías utilizadas
-+HTML y CSS: Estructura y estilo de la página web.
+* HTML y CSS: Estructura y estilo de la página web.
 * JavaScript: Lenguaje de programación principal.
 * Bootstrap: Framework CSS para un diseño rápido y receptivo.
 * SweetAlert: Biblioteca para mostrar alertas personalizadas.
