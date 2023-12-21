@@ -13,19 +13,19 @@ const apiKey = '<TU_CLAVE_API>';
 ## Estructura del proyecto
 El proyecto sigue una estructura clara:
 
-⋅⋅* index.html: La página principal de la aplicación.
-⋅⋅* styles/: Carpeta que contiene los archivos de estilo CSS.
-⋅⋅* scripts/: Carpeta que contiene los archivos JavaScript.
-⋅⋅* assets/: Carpeta para almacenar cualquier recurso adicional, como imágenes.
+* index.html: La página principal de la aplicación.
+* styles/: Carpeta que contiene los archivos de estilo CSS.
+* scripts/: Carpeta que contiene los archivos JavaScript.
+* assets/: Carpeta para almacenar cualquier recurso adicional, como imágenes.
 
 ## Tecnologías utilizadas
-⋅⋅* HTML y CSS: Estructura y estilo de la página web.
-⋅⋅* JavaScript: Lenguaje de programación principal.
-⋅⋅* Bootstrap: Framework CSS para un diseño rápido y receptivo.
-⋅⋅* SweetAlert: Biblioteca para mostrar alertas personalizadas.
-⋅⋅* FontAwesome: Conjunto de iconos vectoriales.
-⋅⋅* async/await, XMLHttpRequest, jQuery, Axios: Métodos para realizar peticiones asíncronas a la API de TMDb.
-⋅⋅* localStorage: Almacenamiento local para guardar títulos.
+* HTML y CSS: Estructura y estilo de la página web.
+* JavaScript: Lenguaje de programación principal.
+* Bootstrap: Framework CSS para un diseño rápido y receptivo.
+* SweetAlert: Biblioteca para mostrar alertas personalizadas.
+* FontAwesome: Conjunto de iconos vectoriales.
+* async/await, XMLHttpRequest, jQuery, Axios: Métodos para realizar peticiones asíncronas a la API de TMDb.
+* localStorage: Almacenamiento local para guardar títulos.
 
 ## Ejecución
 Abre el archivo index.html en tu navegador web para cargar la aplicación.
