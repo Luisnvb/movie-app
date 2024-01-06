@@ -3,7 +3,7 @@ A web app for exploring movies from The Movie Database built with JavaScript
 
 Este repositorio contiene el código fuente para una página web que hace uso de la API de The Movie Database (TMDb). La aplicación está construida con HTML, CSS, JavaScript, Bootstrap, SweetAlert, FontAwesome, y utiliza diferentes métodos para realizar peticiones asíncronas, incluyendo async/await, XMLHttpRequest, jQuery y Axios. Además, permite almacenar títulos localmente mediante localStorage.
 
-![alt text](https://github.com/Luisnvb/movie-app/blob/preview1.jpg)
+![alt text](https://github.com/Luisnvb/movie-app/blob/master/preview1.jpg)
 
 ![alt text](https://github.com/Luisnvb/movie-app/preview2.jpg)
 
