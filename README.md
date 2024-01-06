@@ -5,7 +5,7 @@ Este repositorio contiene el código fuente para una página web que hace uso de
 
 ![alt text](https://github.com/Luisnvb/movie-app/blob/master/preview1.jpg)
 
-![alt text](https://github.com/Luisnvb/movie-app/master/preview2.jpg)
+![alt text](https://github.com/Luisnvb/movie-app/blob/master/preview2.jpg)
 
 ## Configuración inicial
 Antes de ejecutar la aplicación, asegúrate de tener una clave de API válida de TMDb. Puedes obtener una clave registrándote en TMDb Developer. Después de obtener tu clave, reemplaza <TU_CLAVE_API> en el archivo script.js con tu clave.
